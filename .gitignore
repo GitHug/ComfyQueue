@@ -1,0 +1,16 @@
+# Runtime state
+queue_state.json
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# Virtual environments
+.venv/
+venv/
